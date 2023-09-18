@@ -74,3 +74,15 @@ footer{
     text-align: center;
     padding: 100px;
 }
+
+.zobacz {
+    color: black;
+    text-align: center;
+    background-color: #FFD100;
+    float: right;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 155px;
+    margin-bottom: 12px;
+    padding: 12.5px 6.25px;
+}
