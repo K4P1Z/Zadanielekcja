@@ -44,6 +44,7 @@ li{
     border-radius: 25px;
     display: flex;
     flex-direction:column;
+    
 }
 
 header {
@@ -93,4 +94,17 @@ nav{
     float: right;
     background-color:black;
     border-radius: 170px;
+}
+
+.main2{
+    display: flex;
+    flex-direction:row;
+}
+
+.main2 .side{
+    border-radius: 50%;
+    margin-left: 15px;
+    margin-right: 200px;
+    margin-top: 15px;
+    border: 0px;
 }
