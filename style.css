@@ -86,3 +86,11 @@ footer{
     margin-bottom: 12px;
     padding: 12.5px 6.25px;
 }
+
+nav{
+    padding: 10px 10px;
+    border-color:black;
+    float: right;
+    background-color:black;
+    border-radius: 170px;
+}
