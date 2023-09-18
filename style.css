@@ -12,3 +12,11 @@ img {
     margin-right: 15px;
     margin-top: 15px;
 }
+a{
+    text-decoration: none;
+    color: white;
+    display: flex;
+    text-align: center;
+    font-size: 15px;
+    flex-direction: column;
+}
