@@ -53,3 +53,9 @@ header {
     width: 75%;
     border-radius: 25px;
 }
+footer{
+    background-color:#FFD100;
+    color: black;
+    text-align: center;
+    padding: 100px;
+}
