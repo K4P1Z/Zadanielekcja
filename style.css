@@ -37,6 +37,15 @@ ul {
     margin-right: 160px;
 }
 
+li{
+    background-color: #202020;
+    margin-left: 10px;
+    margin-right:10px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction:column;
+}
+
 header {
     background-color: #FFD100;
     color: black;
