@@ -22,6 +22,12 @@ a {
     font-size: 15px;
     flex-direction: column;
 }
+a:hover {
+    outline-width: 2px;
+    outline-style: solid;
+    outline-color: #FFD100;
+    border-radius: 25px;
+}
 
 ul {
     display: flex;
