@@ -138,10 +138,28 @@ nav{
     margin-right: 50px;
 }
 
+.table_1 td{
+    padding-left: 30px;
+    padding-right: 100px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: #FFD100;
+
+}
+
 .table_2{
     outline: #FFD100;
     outline-style: solid;
     margin-right: 50px;
+}
+
+.table_2 td{
+    padding-left: 30px;
+    padding-right: 100px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    background-color: #FFD100;
+    
 }
 .table_3{
     outline: #FFD100;
