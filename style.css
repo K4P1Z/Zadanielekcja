@@ -69,6 +69,10 @@ header {
     width: 78%;
     border-radius: 25px;
 }
+.tekstt{
+    overflow: auto;
+    max-height: 200px;
+}
 footer{
     background-color:#FFD100;
     color: black;
@@ -112,4 +116,7 @@ nav{
 .tekss{
     display: flex;
     justify-content: center;
+}
+table {
+    display: flex;
 }
