@@ -117,24 +117,44 @@ nav{
     display: flex;
     justify-content: center;
 }
-.tabela {
+.tableBox {
     color: white;
     background-color: #202020;
     border-radius: 25px;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 30px;
-    padding-bottom: 30px;
-    margin-left: 160px;
-    margin-right: 160px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    width: 78%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    overflow-x: scroll;
+    width: 1407px;
+    margin-left: 185px;
+    margin-right: 185px;
+    margin-bottom: 50px;
 }
-tbody{
-
+.table_1{
+    outline: #FFD100;
+    outline-style: solid;
+    margin-right: 50px;
 }
 
-thead{
-    
+.table_2{
+    outline: #FFD100;
+    outline-style: solid;
+    margin-right: 50px;
+}
+.table_3{
+    outline: #FFD100;
+    outline-style: solid;
+    margin-right: 50px;
+}
+.table_4{
+    outline: #FFD100;
+    outline-style: solid;
+    margin-right: 50px;
+}
+
+.mapa{
+    width: 1857px;
+    display: flex;
 }
